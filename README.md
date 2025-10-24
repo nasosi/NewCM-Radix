@@ -1,6 +1,6 @@
 # NewCM-Radix
 
-NewCM-Radix is a collection of the New Computer Modern font for Windows(R) and use with Radical Pie™.
+NewCM-Radix is a collection of the New Computer Modern font for Windows(R) and use with [Radical Pie™](https://radicalpie.com/).
 
 ## Quick Installation
 
@@ -17,7 +17,7 @@ If you have Windows version 10 1803 or later you can install easily with:
 
 ## Brief description of the project
 
-I began developing NewCM-Radix to make it possible to use the New Computer Modern fonts with Radical Pie™ Equation Editor and Microsoft Word. During development, I realized that the overall appearance of documents could be greatly improved by using the same typefaces for both text and equations. NewCM-Radix was created to make setting up this consistent configuration simple and straightforward
+I began developing NewCM-Radix to make it possible to use the New Computer Modern fonts with [Radical Pie™](https://radicalpie.com/) Equation Editor and Microsoft Word. During development, I realized that the overall appearance of documents could be greatly improved by using the same typefaces for both text and equations. NewCM-Radix was created to make setting up this consistent configuration simple and straightforward
 
 The NewCM-Radix installer performs the following actions:
 1. Installs a subset of the New Computer Modern fonts into the user fonts folder: ```%localappdata%\Microsoft\Windows\Fonts```.
