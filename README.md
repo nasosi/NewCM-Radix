@@ -32,6 +32,12 @@ The software comes with an an uninstaller. To uninstall execute the following in
 ```
 The uninstaller will remove all items above except the items in 4.
 
+The Fonts supported by the project are shown below:
+<div align="center">
+<p align="center">
+  <img src="Examples/SupportedFonts.png"/>
+</p>
+</div>
 ## Examples
 Examples can be found in : the [Examples folder](https://github.com/nasosi/NewCM-Radix/tree/main/Examples)
 
