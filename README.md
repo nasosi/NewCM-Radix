@@ -32,7 +32,7 @@ The software comes with an an uninstaller. To uninstall execute the following in
 ```
 The uninstaller will remove all items above except the items in 4.
 
-A demo of the Fonts supported by the project in black and white backrounds are shown below:
+The Fonts supported by the project in black and white backrounds are shown below:
 <div align="center">
 <p align="center">
   <img src="Examples/SupportedFonts.png"/>
@@ -44,5 +44,3 @@ Examples can be found in the [Examples folder](https://github.com/nasosi/NewCM-R
 
 ## License
 The software comes with two different licenses, one for the scripts and code and one for the fonts. Please refer to the respective files and folders for details.
-
-
