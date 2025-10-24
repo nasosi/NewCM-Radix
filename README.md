@@ -17,7 +17,7 @@ If you have Windows version 10 1803 or later you can install easily with:
 
 ## Brief description of the project
 
-I started developing NewCM-Radix to make it possible to use the New Computer Modern fonts with [Radical Pie™](https://radicalpie.com/) Equation Editor. During development, I realized that the overall appearance of documents could be greatly improved by using the same typefaces for both text and equations in Word and PowerPoint. NewCM-Radix was created to make setting up this consistent configuration simple and straightforward.
+I started developing NewCM-Radix to make it possible to use the New Computer Modern fonts with [Radical Pie™](https://radicalpie.com/) Equation Editor. During development, I realized that the overall appearance of documents could be greatly improved by using the same typefaces for both text and equations in Word and PowerPoint. NewCM-Radix was created to make setting up this consistent configuration simple and straightforward. Special care has been taken to ensure that Windows recognize the fonts and their variants appropriately.
 
 The NewCM-Radix installer performs the following actions:
 1. Installs a subset of the New Computer Modern fonts into the user fonts folder: ```%localappdata%\Microsoft\Windows\Fonts```.
