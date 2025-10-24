@@ -38,10 +38,11 @@ A demo of the Fonts supported by the project in black and white backrounds are s
   <img src="Examples/SupportedFonts.png"/>
 </p>
 </div>
+
 ## Examples
-Examples can be found in : the [Examples folder](https://github.com/nasosi/NewCM-Radix/tree/main/Examples)
+Examples can be found in the [Examples folder](https://github.com/nasosi/NewCM-Radix/tree/main/Examples).
 
 ## License
-The software comes with two different licenses, one for the scripts and code and one for the Fonts. Please refer to the respective files and folders for details.
+The software comes with two different licenses, one for the scripts and code and one for the fonts. Please refer to the respective files and folders for details.
 
 
