@@ -1,6 +1,6 @@
 # NewCM-Radix
 
-NewCM-Radix is a collection of the New Computer Modern fonts for Windows® and use with [Radical Pie™](https://radicalpie.com/).
+NewCM-Radix is a collection of the [New Computer Modern fonts](https://ctan.org/pkg/newcomputermodern) for Windows® and use with [Radical Pie™](https://radicalpie.com/).
 
 ## Quick Installation
 
