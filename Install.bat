@@ -22,7 +22,7 @@
 setlocal enableextensions
 
 echo.
-echo NewCM-Radix v0.8.0: A collection of the New Computer Font for Windows and use with Radical Pie 
+echo NewCM-Radix v0.8.1: A collection of the New Computer Font for Windows and use with Radical Pie 
 echo ----------------------------------------------------------------------------------------------
 echo.
 echo This program is distributed in the hope that it will be useful,
@@ -394,7 +394,7 @@ if not defined personalTemplatesPath (
         set "personalPath=%userprofile%\Documents"
     )
 
-    call set "personalTemplatesPath=!personalPath!\Custom Office Templates  
+    call set "personalTemplatesPath=!personalPath!\Custom Office Templates"
     
     echo !TAB!- Setting MS Word Personal Templates path in registry to:
     echo !TAB!  !personalTemplatesPath!

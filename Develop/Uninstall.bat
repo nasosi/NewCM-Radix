@@ -29,7 +29,7 @@ if /i "%1"=="/y" (
 ) 
 
 echo.
-echo NewCM-Radix v0.8.0: A collection of the New Computer Font for Windows and use with Radical Pie 
+echo NewCM-Radix v0.8.1: A collection of the New Computer Font for Windows and use with Radical Pie 
 echo ----------------------------------------------------------------------------------------------
 echo.
 echo This program is distributed in the hope that it will be useful,
