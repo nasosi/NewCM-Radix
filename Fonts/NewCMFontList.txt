@@ -1,0 +1,19 @@
+NewCM10-Bold,New Computer Modern 10 Bold
+NewCM10-BoldItalic,New Computer Modern 10 Bold Italic
+NewCM10-Book,New Computer Modern 10 Book
+NewCM10-BookItalic,New Computer Modern 10 Book Italic
+NewCMMath-Bold,New Computer Modern Math Bold
+NewCMMath-Book,New Computer Modern Math Book
+NewCMMono10-Bold,New Computer Modern Mono 10 Bold
+NewCMMono10-BoldOblique,New Computer Modern Mono 10 Bold Oblique
+NewCMMono10-Book,New Computer Modern Mono 10 Book
+NewCMMono10-BookItalic,New Computer Modern Mono 10 Book Italic
+NewCMSans10-Bold,New Computer Modern Sans 10 Bold
+NewCMSans10-BoldOblique,New Computer Modern Sans 10 Bold Oblique
+NewCMSans10-Book,New Computer Modern Sans 10 Book
+NewCMSans10-BookOblique,New Computer Modern Sans 10 Book Oblique
+NewCMSansMath-Regular,New Computer Modern Sans Math Regular
+NewCMUncial10-Bold,New Computer Modern Uncial 10 Bold
+NewCMUncial10-Book,New Computer Modern Uncial 10 Book
+NewCMMath-RadicalPieGreek-Book,New Computer Modern Math Radical Pie Greek Book
+NewCMMath-RadicalPieGreek-Bold,New Computer Modern Math Radical Pie Greek Bold

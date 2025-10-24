@@ -1,0 +1,114 @@
+// Radical Pie Equation
+
+D
+{
+	F (i=8) {s{"NewCM10-Book"}}
+	F (i=9) {s{"NewCM10-BookItalic"}}
+	F (i=10) {s{"NewCM10-Bold"}}
+	F (i=11) {s{"NewCM10-BoldItalic"}}
+	F (i=12) {s{"NewCMMath-Book"}}
+	F (i=13) {s{"NewCMMath-Bold"}}
+	F (i=14) {s{"NewCMMath-RadicalPieGreek-Book"}}
+	F (i=15) {s{"NewCMMath-RadicalPieGreek-Bold"}}
+	M (t='uprt') {u8{12,8,0,1}}
+	M (t='ital') {u8{9,0,2,255}}
+	M (t='bold') {u8{13,10,0,3}}
+	M (t='bitl') {u8{13,11,8,0}}
+	M (t='grek') {u8{12,8,1,7}}
+	M (t='itgk') {u8{14,2,7,255}}
+	M (t='bdgk') {u8{10,3,7,255}}
+	M (t='bigk') {u8{15,4,7,255}}
+	M (t='sym1') {u8{12,0,5,7}}
+	M (t='sym2') {u8{13,0,5,7}}
+	M (t='nary') {u8{12,0,1,5}}
+	M (t='gral') {u8{12,0,1,5}}
+	M (t='scpt') {u8{12,13,6,255}}
+	M (t='bdsc') {u8{13,12,6,255}}
+	M (t='frkt') {u8{12,6,255,255}}
+	M (t='bdfk') {u8{13,12,6,255}}
+	M (t='doub') {u8{12,6,255,255}}
+	M (t='sans') {u8{12,6,255,255}}
+	M (t='itsn') {u8{12,6,255,255}}
+	M (t='dbsn') {u8{12,6,255,255}}
+	M (t='bisn') {u8{12,6,255,255}}
+	V (n='fsiz') {f{10.0}}
+}
+Gr
+{
+	Bg {}
+	Sb {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='uprt') {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb (st='uprt') {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='bold') {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb (st='bold') {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='bitl') {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb (st='bitl') {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='itgk') {s{"αβχδεϕγ"}}
+	Sp (s=4.5) {}
+	Sb (st='itgk') {s{"ΑΒΧΔΕΦ"}}
+	Bg {}
+	Sb (st='grek') {s{"αβχδεϕγ"}}
+	Sp (s=4.5) {}
+	Sb (st='grek') {s{"ΑΒΧΔΕΦ"}}
+	Bg {}
+	Sb (st='bigk') {s{"αβχδεϕγ"}}
+	Sp (s=4.5) {}
+	Sb (st='bigk') {s{"ΑΒΧΔΕΦ"}}
+	Bg {}
+	Sb (st='bdgk') {s{"αβχδεϕγ"}}
+	Sp (s=4.5) {}
+	Sb (st='bdgk') {s{"ΑΒΧΔΕΦ"}}
+	Bg {}
+	Sb (st='sym1') {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb (st='sym1') {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='sym2') {s{"abcdefg"}}
+	Sp (s=4.5) {}
+	Sb (st='sym2') {s{"ABCDEF"}}
+	Bg {}
+	Sb (st='scpt') {s{"𝒶𝒷𝒸𝒹ℯ𝒻ℊ"}}
+	Sp (s=4.5) {}
+	Sb (st='scpt') {s{"𝒜ℬ𝒞𝒟ℰℱ"}}
+	Bg {}
+	Sb (st='bdsc') {s{"𝓪𝓫𝓬𝓭𝓮𝓯𝓰"}}
+	Sp (s=4.5) {}
+	Sb (st='bdsc') {s{"𝓐𝓑𝓒𝓓𝓔𝓕"}}
+	Bg {}
+	Sb (st='frkt') {s{"𝔞𝔟𝔠𝔡𝔢𝔣𝔤"}}
+	Sp (s=4.5) {}
+	Sb (st='frkt') {s{"𝔄𝔅ℭ𝔇𝔈𝔉"}}
+	Bg {}
+	Sb (st='bdfk') {s{"𝖆𝖇𝖈𝖉𝖊𝖋𝖌"}}
+	Sp (s=4.5) {}
+	Sb (st='bdfk') {s{"𝕬𝕭𝕮𝕯𝕰𝕱"}}
+	Bg {}
+	Sb (st='doub') {s{"𝕒𝕓𝕔𝕕𝕖𝕗𝕘"}}
+	Sp (s=4.5) {}
+	Sb (st='doub') {s{"𝔸𝔹ℂ𝔻𝔼𝔽"}}
+	Bg {}
+	Sb (st='sans') {s{"𝖺𝖻𝖼𝖽𝖾𝖿𝗀"}}
+	Sp (s=4.5) {}
+	Sb (st='sans') {s{"𝖠𝖡𝖢𝖣𝖤𝖥"}}
+	Bg {}
+	Sb (st='itsn') {s{"𝘢𝘣𝘤𝘥𝘦𝘧𝘨"}}
+	Sp (s=4.5) {}
+	Sb (st='itsn') {s{"𝘈𝘉𝘊𝘋𝘌𝘍"}}
+	Bg {}
+	Sb (st='dbsn') {s{"𝗮𝗯𝗰𝗱𝗲𝗳𝗴"}}
+	Sp (s=4.5) {}
+	Sb (st='dbsn') {s{"𝗔𝗕𝗖𝗗𝗘𝗙"}}
+	Bg {}
+	Sb (st='bisn') {s{"𝙖𝙗𝙘𝙙𝙚𝙛𝙜"}}
+	Sp (s=4.5) {}
+	Sb (st='bisn') {s{"𝘼𝘽𝘾𝘿𝙀𝙁"}}
+}

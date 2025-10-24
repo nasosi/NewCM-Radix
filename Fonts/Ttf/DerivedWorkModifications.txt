@@ -1,0 +1,13 @@
+The present folder contains a subset of the New Computer Modern fonts in ttf 
+format. Most fonts in the present folder are a mere conversion to ttf and have not
+been modified.
+
+Exceptions are the NewCMMathRadicalPieGreek-Bold, and 
+NewCMMathRadicalPieGreek-Book files, that contain glyphs extracted from 
+NewCMMath-Book and NewCMMath-Bold at different codepoints. 
+
+Exact modification instructions can be found in Convert.py located one folder up
+the present file.
+
+You can download a copy of the original in the following address:
+https://ctan.org/pkg/newcomputermodern

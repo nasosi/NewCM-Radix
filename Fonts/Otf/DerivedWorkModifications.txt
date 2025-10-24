@@ -1,0 +1,5 @@
+The present folder contains a subset of the New Computer Modern fonts. 
+The font files in the current folder have not been modified from the original.
+
+You can download a copy of the original in the following address:
+https://ctan.org/pkg/newcomputermodern

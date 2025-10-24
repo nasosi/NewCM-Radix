@@ -1,0 +1,33 @@
+// Radical Pie Equation
+
+D
+{
+	F (i=8) {s{"NewCMSans10-Book"}}
+	F (i=9) {s{"NewCMSans10-BookOblique"}}
+	F (i=10) {s{"NewCMSans10-Bold"}}
+	F (i=11) {s{"NewCMSans10-BoldOblique"}}
+	F (i=12) {s{"NewCMMath-Book"}}
+	F (i=13) {s{"NewCMMath-Bold"}}
+	M (t='uprt') {u8{8,12,8,0}}
+	M (t='ital') {u8{9,0,2,255}}
+	M (t='bold') {u8{10,10,0,3}}
+	M (t='bitl') {u8{11,11,8,0}}
+	M (t='grek') {u8{8,12,8,1}}
+	M (t='itgk') {u8{9,13,2,7}}
+	M (t='bdgk') {u8{10,10,3,7}}
+	M (t='bigk') {u8{11,4,7,255}}
+	M (t='sym1') {u8{12,0,5,7}}
+	M (t='sym2') {u8{12,0,5,7}}
+	M (t='nary') {u8{12,0,1,5}}
+	M (t='gral') {u8{12,0,1,5}}
+	M (t='scpt') {u8{12,13,6,255}}
+	M (t='bdsc') {u8{13,12,6,255}}
+	M (t='frkt') {u8{12,6,255,255}}
+	M (t='bdfk') {u8{13,6,255,255}}
+	M (t='doub') {u8{12,6,255,255}}
+	M (t='sans') {u8{12,6,255,255}}
+	M (t='itsn') {u8{12,6,255,255}}
+	M (t='dbsn') {u8{13,6,255,255}}
+	M (t='bisn') {u8{13,6,255,255}}
+	V (n='fsiz') {f{10.0}}
+}
