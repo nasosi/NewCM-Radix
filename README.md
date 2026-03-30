@@ -4,7 +4,7 @@ NewCM-Radix is a collection of the [New Computer Modern fonts](https://ctan.org/
 
 ## Quick Installation
 
-If you have Windows version 10 1803 or later you can install easily with:
+If you have Windows version 10 1803 or later, you can install easily with:
 1. Open a Command Prompt
 2. Execute the following command:
 ```
@@ -12,7 +12,7 @@ If you have Windows version 10 1803 or later you can install easily with:
 ```
 ## Regular Installation
 1. Download the repository and extract the .zip file.
-2. Inside the extracted folder, double click "Install" (or "Install.bat" depending on your configuration).
+2. Inside the extracted folder, double-click "Install" (or "Install.bat" depending on your configuration).
 3. Delete the zip file and the folder you created.
 
 ## Brief description of the project
@@ -26,13 +26,13 @@ The NewCM-Radix installer performs the following actions:
 4. Installs Radical Pie design files into ```%appdata%\RadicalPie\DesignFiles```.
 5. Installs Word templates into the user's  ```PersonalTemplates``` templates path. You may have set this path in Word from the Menu item sequency: File->Options->Save [Default personal templates location]. If not NewCM-Radix will set it to the default.
 
-The software comes with an an uninstaller. To uninstall execute the following in a Command Prompt:
+The software comes with an uninstaller. To uninstall, execute the following in a Command Prompt:
 ```
 %localappdata%\NewCM-Radix\Uninstall.bat
 ```
 The uninstaller will remove all components above except the items in 4.
 
-The Fonts supported by the project are shown below in black and white backrounds:
+The Fonts supported by the project are shown below in black and white backgrounds:
 <div align="center">
 <p align="center">
   <img src="Examples/SupportedFonts.png"/>
