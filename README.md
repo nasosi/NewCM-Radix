@@ -15,6 +15,12 @@ If you have Windows version 10 1803 or later, you can install easily with:
 2. Inside the extracted folder, double-click "Install" (or "Install.bat" depending on your configuration).
 3. Delete the zip file and the folder you created.
 
+## Post installation steps
+To load the appropriate design file:
+1. In Radical Pie, go to ```Settings```->```Load Design from Equation``` and in the folder line edit paste: ```%APPDATA%\RadicalPie\DesignFiles```. This will take you to a folder of the form: ```C:\Users\<User Name>\AppData\Roaming\RadicalPie\DesignFiles```.
+2.  Select one of the files and open it (for example ```Design-NewCM10.pie```).
+3.  If desired, you can make it your default by selecting:  ```Settings```->```Save User Default Design```.
+
 ## Brief description of the project
 
 I started developing NewCM-Radix to make it possible to use the New Computer Modern fonts with [Radical Pie™](https://radicalpie.com/) Equation Editor. During development, I realized that the overall appearance of documents could be greatly improved by using the same typefaces for both text and equations in Word and PowerPoint. NewCM-Radix was created to make setting up this consistent configuration simple and straightforward. Special care has been taken to ensure that Windows recognize the fonts and their variants appropriately.
